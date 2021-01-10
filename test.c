@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+
+//From LingXiao
+
+
 int main(int argc,char **argv)
 {
 	printf("12345\n");
@@ -9,4 +13,4 @@ int main(int argc,char **argv)
 	return 0;
 }
 
-
+//The process has core dump!
